@@ -1,2 +1,2 @@
-# basic-portfolio
+# Basic Portfolio
 Simple portfolio site made with HTML CSS.
